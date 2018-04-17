@@ -74,4 +74,4 @@ vncviewer  localhost::5901
 
 of course grant exec permissions `chmod + x ~/startVNC.sh`
 
-![Image of xtightvncviewer](incomplete-window)
+![Image of xtightvncviewer](incomplete-window.png)
